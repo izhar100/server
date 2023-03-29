@@ -1,74 +1,204 @@
 {
-  "users":[
-{
-"id": 1,
-"name": "Gertrudis Tatterton",
-"age": 18,
-"email": "gtatterton0@ehow.com",
-"password": "12345"
-},
-{
-"id": 2,
-"name": "Gail Newbatt",
-"age": 53,
-"email": "gnewbatt1@un.org",
-"password": "12345"
-},
-{
-"id": 3,
-"name": "Walliw Wilstead",
-"age": 49,
-"email": "wwilstead2@tripadvisor.com",
-"password": "12345"
-},
-{
-"id": 4,
-"name": "Abran Proback",
-"age": 29,
-"email": "aproback3@theglobeandmail.com",
-"password": "12345"
-},
-{
-"id": 5,
-"name": "Roda Chappelow",
-"age": 31,
-"email": "rchappelow4@oaic.gov.au",
-"password": "12345"
-},
-{
-"id": 6,
-"name": "Karney Wylie",
-"age": 22,
-"email": "kwylie5@miitbeian.gov.cn",
-"password": "12345"
-},
-{
-"id": 7,
-"name": "Cammi Pimbley",
-"age": 63,
-"email": "cpimbley6@nyu.edu",
-"password": "12345"
-},
-{
-"id": 8,
-"name": "Gavra Manning",
-"age": 43,
-"email": "gmanning7@lycos.com",
-"password": "12345"
-},
-{
-"id": 9,
-"name": "Zachary Seward",
-"age": 45,
-"email": "zseward8@oracle.com",
-"password": "12345"
-},
-{
-"id": 10,
-"name": "Chucho Norssister",
-"age": 20,
-"email": "cnorssister9@mayoclinic.com",
-"password": "12345"
-}
-]
+  "products":[
+    {
+      "id":1,
+      "name":"Gorgeous & Elegant Multi Color Mini Tote Bags/ Shoulder Bags, Multi Color & Multi Design Beautiful Shoulder Purse",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOjMkfm891679595212_9af7d4cbac0589c3ddd27ad8f18cb37cb2dda2b976eec244b121afb185b3c1a4.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOnVSQ3RW1679595215_74231a85addb7f031034ee8621dcc3a9f9f5d614c576da6328d3bfc455c6b05d.jpg",
+      "category":"bag",
+      "price":500
+    },
+    {
+      "id":2,
+      "name":"Stylish Croco Tote Bag / Shoulder Bag In Crocodile",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOd0k0rh31679595212_086d2e0131234eeb07d0875b782bad98d74f00bd05a37100fa7a5b4d2c0958e5.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLORHHTUaO1679595222_05095aa03d3e3ac790455b50fd9af47d31b197a3dbf7db73dd4b7baeeef02e8f.jpg",
+      "category":"bag",
+      "price":700
+    },
+    {
+      "id":3,
+      "name":"Gorgeous & Elegant Multi Color Mini Tote Bags/ Shoulder Bags, Multi Color & Multi Design Beautiful Shoulder Purse",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOiJfxJCU1679595212_4f893eb7674a388f7b6c5d95b1006b884b47891d5b0745c5e0c96b536404d2d1.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOGgSHGT01679595215_79225ebcd6945c75f51e0cc0da76a44cbb69c84232903d40c67d980a87d6a767.jpg",
+      "category":"bag",
+      "price":800
+    },
+    {
+      "id":4,
+      "name":"Stylish Croco Tote Bag / Shoulder Bag In Crocodile",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOOUbD1Sh1679595213_ca6aa6e811778686c6b3bf20d5f47314983fbd63b8facd6a19e4d9719b783a4a.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOcthwTqH1679595221_1c33e89c95a6634cb4c042b4a8c0f5ea83e50879bc5b64f47aadf06032ce277d.jpg",
+      "category":"bag",
+      "price":1000
+    },
+    {
+      "id":5,
+      "name":"Duffle Bags/drum Style Purse & Handbags Premium & Stylish Women Sling Bags/sling Purse",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOxB9i5de1679595215_93305cda7c961daadcffaa864ddacc8e24ed46557f4acea46530e5f23857c394.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOiProQdY1679595217_076d3d30d1c2564130882217e294f4e8a49fb56e26e2f3d30d3e2037e1c5c19c.jpg",
+      "category":"bag",
+      "price":499
+    },
+    {
+      "id":6,
+      "name":"Intees Fashion Men's Premium Round Neck Olive Printed Cotton T-shirt (xl)",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOlmazAMu1679657133_ff112095ae9b9d4b7dc1072e0971c0d31c537feb948b5ad9559ff5c892e0ba46.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOXnyLntB1679657136_94a8d421a53f499caa94f47f8e54369733b8f9b4d13b301fc6cb78869ed0564c.jpg",
+      "category":"tshirt",
+      "price":399
+    },
+    {
+      "id":7,
+      "name":"Intees Fashion Men's Premium Round Neck Maroon Plain Cotton T-shirt (xl)",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOw128OVg1679657133_c6bc6c828de9ebe21b3e7949997618b06f4bdea7987572b0a15f4779841f9e72.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOEk94sDp1679657136_a6247c38af63b425d3a4a901e8607be7e890e4680ca11a37c0de6bcccb4f25d8.jpg",
+      "category":"tshirt",
+      "price":599
+    },
+    {
+      "id":8,
+      "name":"Intees Fashion Men's Premium Regular Fit Blue Jogger",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLO0xaIHAS1679719992_c8896b6aff61e4776bac81ae3fd1cf4127ecdc8ec1f0e88ed947a2288cebb327.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOWGlxAqX1679719996_059d845f85c5b32682db6dd2475575afda489d56d2261fa6b35282ada0f6f820.jpg",
+      "category":"paint",
+      "price":599
+    },
+    {
+      "id":9,
+      "name":"Intees Fashion Men's Premium Round Neck Grey Printed Cotton T-shirt (xl)",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOSOc8yRo1679657133_b9637af6f63df57f01069dc174cb4b3886decfe1fdd18b85319d2e4ce79d3e2f.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOP3vHwDW1679657136_b2ba61dca3431b134272d0cb9a84aed92e77678f63b142ad2775de0e5feb905a.jpg",
+      "category":"tshirt",
+      "price":649
+    },
+    {
+      "id":10,
+      "name":"Intees Fashion Men's Premium Regular Fit Black Jogger",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOCarLbRu1679719995_7f56bf76202a313c0c5c0e7c15c6fd46c29da1db6c342c21b2eddfcfffd31dc3.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOeRT0P0I1679719999_ad89f79dd45ed967f0069bd9c9cffbe318ceadeeba74e31e4e3d5520593a5806.jpg",
+      "category":"paint",
+      "price":549
+    },
+    {
+      "id":11,
+      "name":"Black Mens Jeans (28)",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOP59Sbok1679725869_dffe2ea29451d2cb120ad9a2ad095d92ba44e679aba83a578b680b2d860a0763.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLONJnR1o51679725873_bab07815246034dab5230aaad7382950f26c10440a07d5990936190cf4509f49.jpg",
+      "category":"jeans",
+      "price":500
+    },
+    {
+      "id":12,
+      "name":"Papa93 Mens Jeans Blue",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOmrJwDbV1679725868_e232c213ac1aae7e6a5bfe1ac6ff5c751170c225a300327173d176e4c99b69a3.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOeh0HHZu1679725870_825e832abda9bd7806f4d4e03e3ea3a492a2daa716f0299d861156e462c33350.jpg",
+      "category":"jeans",
+      "price":555
+    },
+    {
+      "id":13,
+      "name":"Papa93 Mens Jeans (32) Blue",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOmrJwDbV1679725868_e232c213ac1aae7e6a5bfe1ac6ff5c751170c225a300327173d176e4c99b69a3.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOeh0HHZu1679725870_825e832abda9bd7806f4d4e03e3ea3a492a2daa716f0299d861156e462c33350.jpg",
+      "category":"jeans",
+      "price":570
+    },
+    {
+      "id":14,
+      "name":"Papa93 Mens Jeans (30) Blue",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOmrJwDbV1679725868_e232c213ac1aae7e6a5bfe1ac6ff5c751170c225a300327173d176e4c99b69a3.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOeh0HHZu1679725870_825e832abda9bd7806f4d4e03e3ea3a492a2daa716f0299d861156e462c33350.jpg",
+      "category":"jeans",
+      "price":599
+    },
+    {
+      "id":15,
+      "name":"Black Mens Jeans (30)",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOP59Sbok1679725869_dffe2ea29451d2cb120ad9a2ad095d92ba44e679aba83a578b680b2d860a0763.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLONJnR1o51679725873_bab07815246034dab5230aaad7382950f26c10440a07d5990936190cf4509f49.jpg",
+      "category":"jeans",
+      "price":500
+    },
+    {
+      "id":16,
+      "name":"Careflection Car Door Edge Guard Bumper Ovrm Mirror Protector Sticker Cover For All Cars Bikes Auto Film Protect Gel Finish Transparent Anti Scratch Dent Damage Rust And Safety 2 Years Warranty",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOXxfSb9u1673449239_6affdae3b3c1aa6aa7689e9b6a7b3225a636aa1ac0025f490cca1285ceaf1487.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLO99ODAdh1673449255_76e03a80ca42b144abcbe8f521999e0f53144e16a7f69f1141dd2708cd86d653.jpg",
+      "category":"accessories",
+      "price":299
+    },
+    {
+      "id":17,
+      "name":"A8 Car Gps Tracking Device With Voice Recording For Kids Safety Bikes Cars Elders And Pets",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOGjyyfNh1673449252_13671077b66a29874a2578b5240319092ef2a1043228e433e9b006b5e53e7513.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLO1TOEaOr1673449263_ce8814b29a066f119eaf558173a936dcc2e3d660ef45e63b942b127b092ea2fb.jpg",
+      "category":"accessories",
+      "price":799
+    },
+    {
+      "id":18,
+      "name":"Hdmi Video Game Stick Plug And Play Wireless 4k Hd Tv With 8 Bit Built In Free 1500puls Games Sd Card Dongle With 2 Players Joystick Black",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOZNRvD9I1673449244_dbb1ded63bc70732626c5dfe6c7f50ced3d560e970f30b15335ac290358748f6.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOy7LR76q1673449246_ca8b033fbeeb5103361a2f54efd269569094478366d51c7b151e8a604fa16394.jpg",
+      "category":"accessories",
+      "price":1199
+    },
+    {
+      "id":19,
+      "name":"Game Box Mini Video Key Chain Player Classic Retro With 26 Kinds Lcd Machine Collectible Portable Indoor Outdoor Console Handheld Toy Puzzle Solve For Girls Kids Blue",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOtMwK5Vr1673449243_eeca91fd439b6d5e827e8fda7fee35046f2def93508637483f6be8a2df7a4392.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOSMSMDY71673449248_52f25e75b0f19d2bf82fd5486cba69fbab44aa9fa9acc0b02aa30e26152e5589.jpg",
+      "category":"accessories",
+      "price":199
+    },
+    {
+      "id":20,
+      "name":"2 Pcs Universal Vehicle Safety Car Seat Belt Alarm Stopper Alloy Buckle Carbon Fibre Replacement Kit: Beep Led Silencer Null Insert Clip Part Useful For All Cars Daily Purpose",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOLNLIUvf1673449254_36ebe205bcdfc499a25e6923f4450fa8d48196ceb4fa0ce077d9d8ec4a36926d.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOMSEgCiu1673449257_0647607182a6ab9cce1ccd4ead828dcb6afa2d8da7129be6cb8a88ede1ebe836.jpg",
+      "category":"accessories",
+      "price":185
+    },
+    {
+      "id":21,
+      "name":"Wonderland Foods Whole Raw Cashew (kaju) W320-grade 1kg Pouch",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOZQeJZrm1671946779_35c5ec2b5cc8835044f866fbb3fd1b76580153d2c3b42dc36cfa0fc40c87b1b5.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOSLR95vy1671946792_5cedb4e82fd7905421fecc1deca05b646f47412682aa2ee554d66fe7d2f8c480.jpg",
+      "category":"grocery",
+      "price":999
+    },
+    {
+      "id":22,
+      "name":"Wonderland Foods - Dry Fruits American California Roasted & Salted Jumbo Pistachios (pista) 500g Jar",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOe2m7mQC1671866176_8ee9fd5d8564689eaf4bf00b0cf50a8e2a8f2ad3689312cc7900917a66e673c1.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOotH76x91671946789_0ab519007a149a21884c304af6db2295b13f0739f33d30368843aebd9a6f3d0d.jpg",
+      "category":"grocery",
+      "price":689
+    },
+    {
+      "id":23,
+      "name":"Wonderland Foods - 100% Natural Whole Cashews (kaju) Nuts Mangalore W320-grade 500g Jar",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOU8oREdt1672509526_b0f5a4dc943302c0219f459430398d9343976e2fe781371af69ecf7002496b70.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLO2J3wRJH1672509529_e80d035a7eaac0607e658eae961d6d8782b2729b4727ee8be409ac82474c35fb.jpg",
+      "category":"grocery",
+      "price":541
+    },
+    {
+      "id":24,
+      "name":"Wonderland Foods - Healthy & Tasty Lightly Roasted Chia, Jumbo Pumpkin, Jumbo Sunflower, Flax Seeds 800g (200g X 4) Jar",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOy86Wrtd1672493107_ee7c71f791b591563b41040608b44f7658661cf3605a528839d7caf500931b2f.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOgBKJCCB1672493125_f0c9db4d206ed2030eeba0a1becce8408be6756948ad3b6accffed55adf364f0.jpg",
+      "category":"grocery",
+      "price":489
+    },
+    {
+      "id":25,
+      "name":"Wonderland Foods - Californian Whole & Dried Blueberry 150g Pouch",
+      "image1":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLO0GHYf5X1672509424_6a01d4eadcb27a2f2a4c8485d73ce824e37a45137fd32d0f54212f277c2857e3.jpg",
+      "image2":"https://cdn.plotch.io/image/upload/w_166,h_166/C/V/PLOd3m6kRK1672509526_113b0dea90c8707a1d7163d3d5c02700a97bb039237fab00419e4efcb7a6401f.jpg",
+      "category":"grocery",
+      "price":301
+    }
+  ]
 }
