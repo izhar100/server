@@ -493,6 +493,23 @@
       "batch_name": "WEB-18",
       "profession": "FSD"
     }
+  ],
+  "userss": [
+    {
+      "name": "izhar",
+      "score": 0,
+      "id": 1
+    },
+    {
+      "name": "Ezhar Ashraf",
+      "score": 10,
+      "id": 2
+    },
+    {
+      "name": "xyz",
+      "score": 8,
+      "id": 3
+    }
   ]
 
 }
