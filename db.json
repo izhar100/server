@@ -523,7 +523,7 @@
       "items":[
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":0,
@@ -531,7 +531,7 @@
         },
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":15,
@@ -539,7 +539,7 @@
         },
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":15,
@@ -547,7 +547,7 @@
         },
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":0,
@@ -555,7 +555,7 @@
         },
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":15,
@@ -563,7 +563,7 @@
         },
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":15,
@@ -571,7 +571,7 @@
         },
         {
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
-            "Product name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
+            "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
             "Price":60.67,
             "Quantity":15,
