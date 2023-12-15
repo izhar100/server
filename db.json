@@ -522,6 +522,7 @@
       "status":"Awaiting your approval",
       "items":[
         {
+            "id":0,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
@@ -530,6 +531,7 @@
             "Status":""
         },
         {
+            "id":1,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
@@ -538,6 +540,7 @@
             "Status":""
         },
         {
+            "id":2,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
@@ -546,6 +549,7 @@
             "Status":""
         },
         {
+           "id":3,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
@@ -554,6 +558,7 @@
             "Status":""
         },
         {
+           "id":4,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
@@ -562,6 +567,7 @@
             "Status":""
         },
         {
+            "id":5,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
@@ -570,6 +576,7 @@
             "Status":""
         },
         {
+            "id":6,
             "image":"https://res.cloudinary.com/dtvukorks/image/upload/v1702561966/jiooi3sawi0ydylmaymo.jpg",
             "name":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, minus!",
             "Brand":"Hormal Black Labelmany",
